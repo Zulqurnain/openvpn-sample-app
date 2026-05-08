@@ -4,3 +4,9 @@ This OpenVPN sample provides a simple and easy way how to open VPN connection wi
 This app is based on `schwabe/ics-openvpn` project. More information is available here: https://github.com/schwabe/ics-openvpn.
 
 This source code is distributed under GPLv2 licence.
+
+---
+
+**Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
+
+For full portfolio visit: https://zulqurnainj.com/
